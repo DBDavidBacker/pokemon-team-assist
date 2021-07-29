@@ -11,6 +11,6 @@ con.connect((err) => {
     if (err) {
       throw err;
     }
-    console.log('abilities created');
+    console.log('moves created');
   });
 })
